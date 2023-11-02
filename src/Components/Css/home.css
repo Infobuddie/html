@@ -1,0 +1,18 @@
+/* Home.module.css */
+.card {
+    background-color: #FF9800;
+    border: 1px solid #e0e0e0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+    margin: 16px;
+  }
+  
+  .cardTitle {
+    color: #1976D2;
+  }
+  
+  .list {
+    list-style-type: disc;
+    padding-left: 24px;
+  }
+  
